@@ -1,0 +1,70 @@
+/* section 5----------------------------------------------- */
+div.part5{
+    width: 100%;
+    text-align: center;  
+    margin: auto;
+    height: auto;
+    margin-top: 5%;
+
+    background-color:  rgb(243, 243, 243);
+}
+div.contact{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    float: left;
+    margin-top:10%;
+    margin-bottom:10%;
+    padding: 2% 9%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+part5 contact h2{
+    font-weight: 600;
+  
+}
+div.map{
+    width: 50%;
+    margin: auto;
+    float: left;
+    text-align: center;
+    padding-right: 5%;
+    margin-top:5%;
+    margin-bottom:5%;
+    float: right;
+
+}
+.img-map{
+    width: 70%;
+    margin: auto;
+   
+   
+}
+.clr{
+    clear: both;
+
+}
+/* end section 5---------------------------------------- */
+/* section 6-------------------------------------------- */
+div.part7{
+    background-color: #312e2e;
+    text-align: center;
+    padding-top:5%;
+    padding-bottom: 2.5%;
+   
+}
+div.part7 p{
+    padding-top: 0.5%;
+    color: rgb(112, 112, 112);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.img-part7{
+       
+       width: 20%;
+       display: block;
+       margin: auto;
+       text-align: center;
+       
+}
+/* end section 6---------------------------------------- */
